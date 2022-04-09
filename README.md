@@ -1,2 +1,2 @@
 # Laboratory-project
-It's just my Lab workd
+It's just my Lab work
